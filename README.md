@@ -1,1 +1,1 @@
-https://xdgtweb.github.io/curriculumDavid/index.html
+https://xdgtweb.github.io/pokemon/pokemon-card-holo-effect/dist/index.html
